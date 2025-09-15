@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body {
+    font-family: poppins, sans-serif;
+}
+
+.nav {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+main {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+footer {
+    padding: 100px 150px;
+}
+
+.active {
+    border-radius: 60px;
+    background-color: #0E7A811a;
+}
+
+@media(max-width:640px) {
+    body {
+        padding: 0;
+    }
+}
