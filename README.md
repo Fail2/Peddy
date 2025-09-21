@@ -8,4 +8,4 @@ This is a Pet adoption web App
 - DOM
 ## Live Link
 
-[Peddy](https://fail2.github.io/Quiz-App/)
+[Peddy](https://fail2.github.io/Peddy/)
